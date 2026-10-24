@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hello
 
-<!--
-**john-alencar/john-alencar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm John Alencar, a software developer based in Toronto, Canada.
+- I build the app, shape the data, and keep the server running.
+- Tech enthusiast who enjoys talking C++, markets, and games.
+- Final semester at Seneca, graduating December 2026.
 
-Here are some ideas to get you started:
+## What I'm building:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **agent-env-selfhosted** — self-hosted AI agent platform on an Oracle Cloud VPS, with LXD containers, snapshot backups, and hardened access.
+- **scorching-deals** — price tracking and deal aggregation.
+- **stock-buddy** — a C++ ticker and portfolio tracker: hand-rolled `DynArray<T>` template, Rule of Five (deep copy, move semantics, self-assignment guard), polymorphic assets via abstract base + `clone()`, and explicit ownership. Core modules verified clean under ASan/UBSan.
+- **WealthSync** — personal finance dashboard (React + Vite): imports, cost-base tracking, multi-currency, and Google Drive sync.
